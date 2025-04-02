@@ -46,6 +46,7 @@ To test the trained model in real-time using a webcam, run:
 run the ipynb file to train and load the model for use
 ```
 Press `Q` to exit the webcam window.
+![Description](image.jpg)
 
 ---
 
